@@ -11,6 +11,14 @@ If you're a student, GitHub gives students free access to the best developer too
 
 An open source and customizable programming IDE for just about anything.
 
+[Visual Studio](https://visualstudio.microsoft.com/vs/community/)
+
+A full-featured and free IDE for creating modern applications for Android, iOS, macOS, as well as web applications and cloud services.
+
+[Visual Studio Code](https://code.visualstudio.com/)
+
+Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+
 [Sublime Text](https://sublimetext.com/)
 
 A sophisticated text editor for code, markup and prose.
