@@ -51,11 +51,19 @@ A database of profile pictures for mockups and demoes (many can be used on live 
 
 An array of design resources such as: Mock-ups, UI Kits, Icons, Backgrounds, etc.
 
+[Picular](https://picular.co/)
+
+Picular is a rocket fast primary color generator using Google’s image search. If you ever needed the perfect yellow hex code from a banana, this is the tool for you.
+
 ### Inspiration
 
 [UX Archive](http://uxarchive.com/)
 
 One of the best Mobile UX websites. Can't figure out a certain User Flow for your mobile hack? UX Archive lists just about every flow or user task from the best apps out.
+
+[Really Good UX](www.reallygoodux.io/)
+
+A library of screenshots and examples of really good UX. Brought to you by Appcues.
 
 ### Wireframes
 
@@ -99,6 +107,10 @@ A boilerplate for Node.js web applications, which use RDBS (relational database 
 
 ### Resources
 
+[OverAPI.com](http://overapi.com/)
+
+Collecting All Cheat Sheets
+
 [Cody House](https://codyhouse.co/)
 
 A free library of very useful HTML, CSS, and JS nuggets with comprehensive tutorials.
@@ -114,6 +126,19 @@ Free Bootstrap starter templates for different types of sites. A good place to s
 [Boot Snipp](https://bootsnipp.com/)
 
 Free Bootstrap code snippets for design elements. Similar to Pattern Tap but with provided code.
+
+[TemplateMag](https://templatemag.com/)
+
+Reviewed high quality Bootsrap website templates created by Team TemplateMag
+
+[cssreference.io](https://cssreference.io/)
+
+Learn by example: cssreference.io is a free visual guide to CSS.
+
+
+[Creative Tim](https://www.creative-tim.com/)
+
+Premium Bootstrap themes, templates, UI Kits and more developed by Creative Tim.
 
 ### Web Application Hosting
 
@@ -149,6 +174,10 @@ Free top-notch online courses in many STEM subjects
 
 Learning material provided by Ladies Storm Hackathons
 
+[Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+
+A collection of (mostly) technical things every software developer should know.
+
 ## :chart_with_upwards_trend: Business and Management
 
 [Trello](https://trello.com/)
@@ -158,6 +187,14 @@ Trello’s boards, lists, and cards enable you to organize and prioritize your p
 [Whiteboard Fox](https://whiteboardfox.com/)
 
 Share a virtual whiteboard in real-time using any modern web browser
+
+[Canvas Sketch](https://sbussard.github.io/canvas-sketch/)
+
+App to sketch out a business model canvas
+
+[startup name check](https://startupnamecheck.com/)
+
+Check and compare names for your next startup with ease. No BS, just information.
 
 ## :file_folder: References
 
