@@ -99,6 +99,9 @@ High-quality and varied icon fonts and icon packs.
 
 [Font Awesome](https://fontawesome.com/)
 
+Cool small icons that are easy to recognize. 
+[FamFamFam](http://www.famfamfam.com/lab/icons/)
+
 The world’s most popular and easiest to use icon set just got an upgrade. More icons. More styles. More options.
 
 ## :computer: Code
