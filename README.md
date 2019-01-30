@@ -69,7 +69,7 @@ Picular is a rocket fast primary color generator using Google’s image search. 
 
 One of the best Mobile UX websites. Can't figure out a certain User Flow for your mobile hack? UX Archive lists just about every flow or user task from the best apps out.
 
-[Really Good UX](www.reallygoodux.io/)
+[Really Good UX](http://www.reallygoodux.io/)
 
 A library of screenshots and examples of really good UX. Brought to you by Appcues.
 
