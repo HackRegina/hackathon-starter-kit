@@ -101,6 +101,10 @@ High-quality and varied icon fonts and icon packs.
 
 The world’s most popular and easiest to use icon set just got an upgrade. More icons. More styles. More options.
 
+[FamFamFam](http://www.famfamfam.com/lab/icons/)
+
+Cool small icons that are easy to recognize.
+
 ## :computer: Code
 
 ### Starters
